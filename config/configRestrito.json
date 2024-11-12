@@ -1,0 +1,10 @@
+{
+    "approvals":{
+        "client_id":"",
+        "client_secret" : "",
+        "tenant_id" : "",
+        "group_id":"",
+        "login":"",
+        "pass":""
+    }
+}
